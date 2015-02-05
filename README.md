@@ -111,3 +111,5 @@
 ```java
 ListView.addHeaderView(_ListView.inflate(getActivity(),R.layout.ad_scroll_image,null));
 ```
+### 关于作者： <h3>
+Email：wjie@yibee.net 
