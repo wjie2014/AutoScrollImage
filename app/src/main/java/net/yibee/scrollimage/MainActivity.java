@@ -61,6 +61,6 @@ public class MainActivity extends ActionBarActivity {
         //启用图片滚动
         scrollImageView.initViewPagerImage(list, myPager, ovalLayout);
     }
-   
+
 
 }
