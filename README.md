@@ -1,5 +1,8 @@
 ## AutoScrollImage基于ViewPage的android图片滚动的实现，支持自动滚动播放和手动滚动。<h2>
 使用了xUtils开源库加载图片文件，可针对自己喜好更换加载图片的方式。
+
+### 另一个实现方式见[https://github.com/wjie2014/AutoScrollBanner](https://github.com/wjie2014/AutoScrollBanner)
+
 ### 使用方法 <h3>
 首先将文件拷贝到自己的项目中。
 ### Activity中使用 <h3>
